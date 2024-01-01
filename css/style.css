@@ -4045,7 +4045,7 @@ header.simpl {
   height: 80px;
   background: #fff;
   border-radius: 50%;
-  text-align: center;
+  text-align: left;
   line-height: 80px;
   position: relative; }
   .block-sec .vid-area .vid-icon .vid:after {
@@ -4063,13 +4063,13 @@ header.simpl {
     color: #75dab4; }
 
 .block-sec .vid-area .cont {
-  margin-top: 40px; }
+  margin-top: 25px; }
   .block-sec .vid-area .cont h6 {
     text-transform: uppercase;
     font-weight: 300;
     margin-bottom: 15px; }
   .block-sec .vid-area .cont h3 {
-    font-size: 45px;
+    font-size: 35px;
     font-weight: 700; }
 
 .block-sec .testim-box {
